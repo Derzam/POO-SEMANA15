@@ -2,7 +2,7 @@
 
 Esta versión evoluciona la aplicación gráfica de la Semana 14. Conserva el login, la consulta de usuarios y el CRUD de productos, y añade el registro persistente de ventas.
 
-Base de Semana 14: [Derzam/POO-SEMANA-14](https://github.com/Derzam/POO-SEMANA-14).
+Autor: Derly Zambrano
 
 ## Estructura
 
