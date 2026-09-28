@@ -1,0 +1,15 @@
+[
+    {
+        "identificacion": 1001,
+        "nombre": "Derly Zambrano",
+        "usuario": "derly",
+        "contraseña": "admin123"
+    },
+    {
+        "identificacion": 1002,
+        "nombre": "Usuario de Prueba",
+        "usuario": "prueba",
+        "contraseña": "1234"
+    }
+]
+
